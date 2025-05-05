@@ -6,7 +6,7 @@
 
 ## About Me
 - 🌱 I'm currently learning **Object-Oriented Programming, Python, Machine Learning, Deep Learning, and Computer Vision**
-- 👯 I'm interested in collaborating on **Deep Learning projects** related to image recognition, object detection, and computer vision applications**
+- 👯 I'm interested in collaborating on **Deep Learning projects** related to image recognition, object detection, and computer vision applications.
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/TasnubaTiha33?tab=repositories)
 
 ## Connect with me:
