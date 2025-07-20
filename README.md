@@ -6,7 +6,7 @@
 
 ## About Me
 - 🎓 I'm a recent graduate with a **Bachelor’s degree in Computer Science and Engineering**.  
-- 👩‍🏫 Currently working as a **Undergraduate Teaching Assistant** at **North South University** and a **Part-time Research Intern** at the **Kamaleswaran Lab, Duke University**.  
+- 👩‍🏫 Currently working as an **Undergraduate Teaching Assistant** at **North South University** and a **Part-time Research Intern** at the **Kamaleswaran Lab, Duke University**.  
 - 🌱 I'm actively learning **Causal Inference, Python, Machine Learning, Deep Learning, and Computer Vision**.  
 - 🤝 I'm interested in collaborating on **Deep Learning projects**, especially in **image recognition, object detection, target trial emulation, and computer vision applications**.  
 - 💻 You can explore all my projects on [my GitHub repositories](https://github.com/TasnubaTiha33?tab=repositories).  
