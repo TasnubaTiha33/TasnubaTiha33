@@ -1,11 +1,11 @@
-# Hi 👋, I'm Tasnuba Islam
+# Hi 👋, I'm Tasnuba Islam. I am a recent graduate with a Bachelor's degree in Computer Science and Engineering from North South University, Dhaka, Bangladesh.
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=TasnubaTiha33&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ## About Me
-- 🌱 I'm currently learning **Object-Oriented Programming, Python, Machine Learning, Deep Learning, and Computer Vision**
+- 🌱 I'm currently learning **Causal Inference, Python, Machine Learning, Deep Learning, and Computer Vision**
 - 👯 I'm interested in collaborating on **Deep Learning projects** related to image recognition, object detection, and computer vision applications.
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/TasnubaTiha33?tab=repositories)
 
