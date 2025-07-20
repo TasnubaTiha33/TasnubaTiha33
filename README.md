@@ -1,4 +1,7 @@
-# Hi 👋, I'm Tasnuba Islam!
+### 👋 Hi there! I'm Tasnuba!
+
+A passionate Computer Science graduate currently diving into Causal Inference, Machine Learning, and Deep Learning research. I love building projects that bridge data and real-world impact — especially in healthcare and computer vision.
+
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=TasnubaTiha33&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -19,7 +22,7 @@
 <a href="https://github.com/TasnubaTiha33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools:
+## Tech Stack:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
