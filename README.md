@@ -9,9 +9,11 @@ A passionate Computer Science graduate currently diving into Causal Inference, M
 
 ## About Me
 - 🎓 I'm a recent graduate with a **Bachelor’s degree in Computer Science and Engineering**.  
-- 👩‍🏫 Currently working as an **Undergraduate Teaching Assistant** at **North South University** and a **Part-time Research Intern** at the **Kamaleswaran Lab, Duke University**.  
+- 👩‍🏫 Currently working as a **Part-time Research Intern** at the **Kamaleswaran Lab, Duke University**.
+- 👩‍🏫 I previously worked as an **Undergraduate Teaching Assistant** at **North South University**, supporting courses in mathematics and engineering.  
+- 💼 I also worked as a **Software Engineering Intern** at **CloudlyIO**, contributing to backend development and data-driven feature improvements.  
 - 🌱 I'm actively learning **Causal Inference, Python, Machine Learning, Deep Learning, and Computer Vision**.  
-- 🤝 I'm interested in collaborating on **Deep Learning projects**, especially in **image recognition, object detection, target trial emulation, and computer vision applications**.  
+- 🤝 I'm interested in collaborating on **Deep Learning projects**, especially in **Healthcare AI, Image Segmentation, Causal Inference, Trustworthy AI, and Computer Vision applications**.  
 - 💻 You can explore all my projects on [my GitHub repositories](https://github.com/TasnubaTiha33?tab=repositories).  
 - 📫 Feel free to reach out to me via email at **tasnubatiha12@gmail.com**
 
