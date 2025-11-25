@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Tasnuba!
 
-A passionate Computer Science graduate currently diving into Causal Inference, Machine Learning, and Deep Learning research. I love building projects that bridge data and real-world impact — especially in healthcare and computer vision.
+A passionate Computer Science graduate currently diving into Causal Inference, Machine Learning, and Deep Learning research. I love building projects that bridge data and real-world impact, especially in healthcare and computer vision.
 
 
 <div align="left">
@@ -38,21 +38,24 @@ A passionate Computer Science graduate currently diving into Causal Inference, M
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
-## 📊 Most Used Languages  
+## 📊 Most Used Technologies  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TasnubaTiha33/github-stats/master/generated/languages.svg" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,postgres,git,github&theme=dark" />
 </p>
 
 ---
 
-## ⚡ GitHub Stats
+## ⚡ GitHub Stats 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TasnubaTiha33/github-stats/master/generated/overview.svg" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Projects-Ongoing-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Code-Learning-orange?style=for-the-badge&logo=python" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TasnubaTiha33/github-streak/master/streak.svg" alt="GitHub Streak"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Daily+Commits;New+Projects+Coming+Soon;Always+Learning+New+Things" alt="Typing animation" />
 </p>
+
 
 ---
 
