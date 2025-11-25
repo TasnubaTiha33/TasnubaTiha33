@@ -38,23 +38,28 @@ A passionate Computer Science graduate currently diving into Causal Inference, M
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
-## Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TasnubaTiha33&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+## 📊 Most Used Languages  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TasnubaTiha33/github-stats/master/generated/languages.svg" alt="Top Languages"/>
+</p>
 
-## GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TasnubaTiha33&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TasnubaTiha33&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+---
 
-## 📊 My Contributions
-![Tasnuba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TasnubaTiha33&theme=tokyo-night)
+## ⚡ GitHub Stats
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TasnubaTiha33/github-stats/master/generated/overview.svg" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TasnubaTiha33/github-streak/master/streak.svg" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🌟 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TasnubaTiha33&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
+</p>
 
 ## 📂 Repositories
 <div>
