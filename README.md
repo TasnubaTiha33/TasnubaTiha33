@@ -1,21 +1,22 @@
 ### 👋 Hi there! I'm Tasnuba!
 
-A passionate Computer Science graduate currently diving into Causal Inference, Machine Learning, and Deep Learning research. I love building projects that bridge data and real-world impact, especially in healthcare and computer vision.
-
+I'm a PhD student in Electrical and Computer Engineering at Duke University and a researcher in the Kamaleswaran Lab, where I develop AI methods for pediatric critical care. My interests lie at the intersection of machine learning, clinical data, and foundation models, with the goal of building trustworthy AI systems that support real-world healthcare.
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=TasnubaTiha33&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ## About Me
-- 🎓 I'm a recent graduate with a **Bachelor’s degree in Computer Science and Engineering**.  
-- 👩‍🏫 Currently working as a **Part-time Research Intern** at the **Kamaleswaran Lab, Duke University**.
-- 👩‍🏫 I previously worked as an **Undergraduate Teaching Assistant** at **North South University**, supporting courses in mathematics and engineering.  
-- 💼 I also worked as a **Software Engineering Intern** at **CloudlyIO**, contributing to backend development and data-driven feature improvements.  
-- 🌱 I'm actively learning **Causal Inference, Python, Machine Learning, Deep Learning, and Computer Vision**.  
-- 🤝 I'm interested in collaborating on **Deep Learning projects**, especially in **Healthcare AI, Image Segmentation, Causal Inference, Trustworthy AI, and Computer Vision applications**.  
-- 💻 You can explore all my projects on [my GitHub repositories](https://github.com/TasnubaTiha33?tab=repositories).  
-- 📫 Feel free to reach out to me via email at **tasnubatiha12@gmail.com**
+
+- 🎓 PhD Student in **Electrical and Computer Engineering** at **Duke University**.
+- 🔬 Researcher at the **Kamaleswaran Lab**, working on AI for pediatric critical care using electronic health records, physiological time series, and foundation models.
+- 🎓 Graduated with a **Bachelor of Science in Computer Science and Engineering** from **North South University**.
+- 👩‍🏫 Previously served as both an **Undergraduate** and **Graduate Teaching Assistant**, mentoring students across computer science, engineering, mathematics, and physics.
+- 💼 Former **Software Engineering Intern** at **Cloudly**, where I worked on scalable software systems and machine learning applications.
+- 🌱 My research interests include **Clinical AI**, **Foundation Models**, **Representation Learning**, **Retrieval-Augmented Generation (RAG)**, **Trustworthy AI**, **Computer Vision**, and **Speech Processing**.
+- 🤝 I'm always interested in collaborating on research in **Healthcare AI**, **Multimodal Learning**, **Medical Imaging**, **Clinical Foundation Models**, and **Trustworthy Machine Learning**.
+- 💻 Explore my projects on **[GitHub](https://github.com/TasnubaTiha33?tab=repositories)**.
+- 📫 Reach me at **tasnubatiha12@gmail.com**.
 
 
 ## Connect with me:
