@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Tasnuba!
 
-I'm a PhD student in Electrical and Computer Engineering at Duke University and a researcher in the Kamaleswaran Lab, where I develop AI methods for pediatric critical care. My interests lie at the intersection of machine learning, clinical data, and foundation models, with the goal of building trustworthy AI systems that support real-world healthcare.
+I'm a PhD student in Electrical and Computer Engineering at Duke University and a Graduate Research Assistant in the Kamaleswaran Lab, where I develop AI methods for pediatric critical care. My interests lie at the intersection of machine learning, clinical data, and foundation models, with the goal of building trustworthy AI systems that support real-world healthcare.
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=TasnubaTiha33&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,7 +9,7 @@ I'm a PhD student in Electrical and Computer Engineering at Duke University and 
 ## About Me
 
 - 🎓 PhD Student in **Electrical and Computer Engineering** at **Duke University**.
-- 🔬 Researcher at the **Kamaleswaran Lab**, working on AI for pediatric critical care using electronic health records, physiological time series, and foundation models.
+- 🔬 Graduate Research Assistant at the **Kamaleswaran Lab**, working on AI for pediatric critical care using electronic health records, physiological time series, and foundation models.
 - 🎓 Graduated with a **Bachelor of Science in Computer Science and Engineering** from **North South University**.
 - 👩‍🏫 Previously served as both an **Undergraduate** and **Graduate Teaching Assistant**, mentoring students across computer science, engineering, mathematics, and physics.
 - 💼 Former **Software Engineering Intern** at **Cloudly**, where I worked on scalable software systems and machine learning applications.
